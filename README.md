@@ -1,4 +1,4 @@
-![header]([https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,7,0,0,5,0&height=250&section=header&text=Juyeon's GitHub&fontSize=75&fontAlign=50](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=250&section=header&text=Juyeon%27s%20GitHub&fontSize=75&fontAlign=50))
+![header]([https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=250&section=header&text=Juyeon%27s%20GitHub&fontSize=75&fontAlign=50])
 <div align="center">
 
   <h3>⚡ Stack ⚡</h3>

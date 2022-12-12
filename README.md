@@ -33,6 +33,8 @@
 <br><br>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=K-Juyeon&theme=vue)](https://github.com/K-Juyeon/github-readme-activity-graph)
 
+<br><br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=K-Juyeon&thema=vue)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **K-Juyeon/K-Juyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

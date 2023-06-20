@@ -35,8 +35,8 @@
 
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Juyeon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac
-Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimjuyeon0912)](https://solved.ac/kimjuyeon0912)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimjuyeon0912)](https://solved.ac/kimjuyeon0912)
+
 <!--
 **K-Juyeon/K-Juyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

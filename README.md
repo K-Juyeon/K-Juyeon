@@ -35,9 +35,13 @@
 
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Juyeon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<div align="right">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjuyeon0912)](https://solved.ac/kimjuyeon0912)
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjuyeon0912)](https://solved.ac/kimjuyeon0912)
+
+<hr>
+<h3>🔭 Private Project List 🌱</h3>
+- ticket mecro program with selenium and link
+- cer calculation program for stt recognition 
+- YouTube data collection program ver linux and ver window
 
 <!--
 **K-Juyeon/K-Juyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -39,10 +39,12 @@
 
 <hr>
 <h3>🔭 Private Project List 🌱</h3>
-- ticket mecro program with selenium and link
-- cer calculation program for stt recognition 
-- YouTube data collection program ver linux and ver window
-
+<br><h5>
+  - ticket mecro program with selenium and link ver melon ticket, ver interpark, ver yes24<br>
+  - cer calculation program for stt recognition<br>
+  - YouTube data collection program ver linux and ver window<br>
+  - Learning data selection automation program<br>
+</h5>
 <!--
 **K-Juyeon/K-Juyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -39,7 +39,7 @@
 
 <hr>
 <h3>🔭 Private Project List 🌱</h3>
-<br><h5>
+<h5>
   - ticket mecro program with selenium and link ver melon ticket, ver interpark, ver yes24<br>
   - cer calculation program for stt recognition<br>
   - YouTube data collection program ver linux and ver window<br>
